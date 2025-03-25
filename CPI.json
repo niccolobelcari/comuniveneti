@@ -1,0 +1,2837 @@
+[
+  {
+    "COMUNE": "AGORDO",
+    "CPI": "AGORDO",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "ALLEGHE",
+    "CPI": "AGORDO",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "CANALE D'AGORDO",
+    "CPI": "AGORDO",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "CENCENIGHE AGORDINO",
+    "CPI": "AGORDO",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "COLLE SANTA LUCIA",
+    "CPI": "AGORDO",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "FALCADE",
+    "CPI": "AGORDO",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "GOSALDO",
+    "CPI": "AGORDO",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "LA VALLE AGORDINA",
+    "CPI": "AGORDO",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "LIVINALLONGO DEL COL DI LANA",
+    "CPI": "AGORDO",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "RIVAMONTE AGORDINO",
+    "CPI": "AGORDO",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "ROCCA PIETORE",
+    "CPI": "AGORDO",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "SAN TOMASO AGORDINO",
+    "CPI": "AGORDO",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "SELVA DI CADORE",
+    "CPI": "AGORDO",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "TAIBON AGORDINO",
+    "CPI": "AGORDO",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "VALLADA AGORDINA",
+    "CPI": "AGORDO",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "VOLTAGO AGORDINO",
+    "CPI": "AGORDO",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "ALPAGO",
+    "CPI": "BELLUNO",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "BELLUNO",
+    "CPI": "BELLUNO",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "BORGO VALBELLUNA",
+    "CPI": "BELLUNO",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "CHIES D'ALPAGO",
+    "CPI": "BELLUNO",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "LIMANA",
+    "CPI": "BELLUNO",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "LONGARONE",
+    "CPI": "BELLUNO",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "OSPITALE DI CADORE",
+    "CPI": "BELLUNO",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "PONTE NELLE ALPI",
+    "CPI": "BELLUNO",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "SEDICO",
+    "CPI": "BELLUNO",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "SOSPIROLO",
+    "CPI": "BELLUNO",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "SOVERZENE",
+    "CPI": "BELLUNO",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "TAMBRE",
+    "CPI": "BELLUNO",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "VAL DI ZOLDO",
+    "CPI": "BELLUNO",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "ZOPPÈ DI CADORE",
+    "CPI": "BELLUNO",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "ALANO DI PIAVE",
+    "CPI": "FELTRE",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "ARSIÈ",
+    "CPI": "FELTRE",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "CESIOMAGGIORE",
+    "CPI": "FELTRE",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "FELTRE",
+    "CPI": "FELTRE",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "FONZASO",
+    "CPI": "FELTRE",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "LAMON",
+    "CPI": "FELTRE",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "PEDAVENA",
+    "CPI": "FELTRE",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "QUERO VAS",
+    "CPI": "FELTRE",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "SAN GREGORIO NELLE ALPI",
+    "CPI": "FELTRE",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "SANTA GIUSTINA",
+    "CPI": "FELTRE",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "SEREN DEL GRAPPA",
+    "CPI": "FELTRE",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "SOVRAMONTE",
+    "CPI": "FELTRE",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "AURONZO DI CADORE",
+    "CPI": "PIEVE DI CADORE",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "BORCA DI CADORE",
+    "CPI": "PIEVE DI CADORE",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "CALALZO DI CADORE",
+    "CPI": "PIEVE DI CADORE",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "CIBIANA DI CADORE",
+    "CPI": "PIEVE DI CADORE",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "COMELICO SUPERIORE",
+    "CPI": "PIEVE DI CADORE",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "CORTINA D'AMPEZZO",
+    "CPI": "PIEVE DI CADORE",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "DANTA DI CADORE",
+    "CPI": "PIEVE DI CADORE",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "DOMEGGE DI CADORE",
+    "CPI": "PIEVE DI CADORE",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "LORENZAGO DI CADORE",
+    "CPI": "PIEVE DI CADORE",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "LOZZO DI CADORE",
+    "CPI": "PIEVE DI CADORE",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "PERAROLO DI CADORE",
+    "CPI": "PIEVE DI CADORE",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "PIEVE DI CADORE",
+    "CPI": "PIEVE DI CADORE",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "SAN NICOLÒ DI COMELICO",
+    "CPI": "PIEVE DI CADORE",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "SAN PIETRO DI CADORE",
+    "CPI": "PIEVE DI CADORE",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "SAN VITO DI CADORE",
+    "CPI": "PIEVE DI CADORE",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "SANTO STEFANO DI CADORE",
+    "CPI": "PIEVE DI CADORE",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "VALLE DI CADORE",
+    "CPI": "PIEVE DI CADORE",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "VIGO DI CADORE",
+    "CPI": "PIEVE DI CADORE",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "VODO DI CADORE",
+    "CPI": "PIEVE DI CADORE",
+    "PROVINCIA": "BELLUNO (BL)"
+  },
+  {
+    "COMUNE": "BORGORICCO",
+    "CPI": "CAMPOSAMPIERO",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "CAMPODARSEGO",
+    "CPI": "CAMPOSAMPIERO",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "CAMPOSAMPIERO",
+    "CPI": "CAMPOSAMPIERO",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "CAMPOSAMPIERO",
+    "CPI": "CAMPOSAMPIERO",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "LOREGGIA",
+    "CPI": "CAMPOSAMPIERO",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "MASSANZAGO",
+    "CPI": "CAMPOSAMPIERO",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "PIOMBINO DESE",
+    "CPI": "CAMPOSAMPIERO",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "SAN GIORGIO DELLE PERTICHE",
+    "CPI": "CAMPOSAMPIERO",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "SANTA GIUSTINA IN COLLE",
+    "CPI": "CAMPOSAMPIERO",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "TREBASELEGHE",
+    "CPI": "CAMPOSAMPIERO",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "VILLA DEL CONTE",
+    "CPI": "CAMPOSAMPIERO",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "VILLANOVA DI CAMPOSAMPIERO",
+    "CPI": "CAMPOSAMPIERO",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "CAMPO SAN MARTINO",
+    "CPI": "CITTADELLA",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "CAMPODORO",
+    "CPI": "CITTADELLA",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "CARMIGNANO DI BRENTA",
+    "CPI": "CITTADELLA",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "CITTADELLA",
+    "CPI": "CITTADELLA",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "CURTAROLO",
+    "CPI": "CITTADELLA",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "FONTANIVA",
+    "CPI": "CITTADELLA",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "GALLIERA VENETA",
+    "CPI": "CITTADELLA",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "GAZZO",
+    "CPI": "CITTADELLA",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "GRANTORTO",
+    "CPI": "CITTADELLA",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "PIAZZOLA SUL BRENTA",
+    "CPI": "CITTADELLA",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "SAN GIORGIO IN BOSCO",
+    "CPI": "CITTADELLA",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "SAN MARTINO DI LUPARI",
+    "CPI": "CITTADELLA",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "SAN PIETRO IN GU",
+    "CPI": "CITTADELLA",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "TOMBOLO",
+    "CPI": "CITTADELLA",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "VILLAFRANCA PADOVANA",
+    "CPI": "CITTADELLA",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "AGNA",
+    "CPI": "CONSELVE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "ANGUILLARA VENETA",
+    "CPI": "CONSELVE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "ARRE",
+    "CPI": "CONSELVE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "BAGNOLI DI SOPRA",
+    "CPI": "CONSELVE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "CANDIANA",
+    "CPI": "CONSELVE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "CARTURA",
+    "CPI": "CONSELVE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "CONSELVE",
+    "CPI": "CONSELVE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "MASERÀ DI PADOVA",
+    "CPI": "CONSELVE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "TERRASSA PADOVANA",
+    "CPI": "CONSELVE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "TRIBANO",
+    "CPI": "CONSELVE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "BAONE",
+    "CPI": "ESTE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "BARBONA",
+    "CPI": "ESTE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "BORGO VENETO",
+    "CPI": "ESTE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "CARCERI",
+    "CPI": "ESTE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "CASALE DI SCODOSIA",
+    "CPI": "ESTE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "CASTELBALDO",
+    "CPI": "ESTE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "CINTO EUGANEO",
+    "CPI": "ESTE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "ESTE",
+    "CPI": "ESTE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "LOZZO ATESTINO",
+    "CPI": "ESTE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "MASI",
+    "CPI": "ESTE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "MEGLIADINO SAN FIDENZIO",
+    "CPI": "ESTE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "MEGLIADINO SAN VITALE",
+    "CPI": "ESTE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "MERLARA",
+    "CPI": "ESTE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "MONTAGNANA",
+    "CPI": "ESTE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "OSPEDALETTO EUGANEO",
+    "CPI": "ESTE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "PIACENZA D'ADIGE",
+    "CPI": "ESTE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "PONSO",
+    "CPI": "ESTE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "SALETTO",
+    "CPI": "ESTE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "SANT'URBANO",
+    "CPI": "ESTE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "SANTA MARGHERITA D'ADIGE",
+    "CPI": "ESTE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "URBANA",
+    "CPI": "ESTE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "VIGHIZZOLO D'ESTE",
+    "CPI": "ESTE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "VILLA ESTENSE",
+    "CPI": "ESTE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "VO'",
+    "CPI": "ESTE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "ARQUÀ PETRARCA",
+    "CPI": "MONSELICE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "BOARA PISANI",
+    "CPI": "MONSELICE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "DUE CARRARE",
+    "CPI": "MONSELICE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "GRANZE",
+    "CPI": "MONSELICE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "MONSELICE",
+    "CPI": "MONSELICE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "PERNUMIA",
+    "CPI": "MONSELICE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "POZZONOVO",
+    "CPI": "MONSELICE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "SAN PIETRO VIMINARIO",
+    "CPI": "MONSELICE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "SANT'ELENA",
+    "CPI": "MONSELICE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "SOLESINO",
+    "CPI": "MONSELICE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "STANGHELLA",
+    "CPI": "MONSELICE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "VESCOVANA",
+    "CPI": "MONSELICE",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "ABANO TERME",
+    "CPI": "PADOVA",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "ALBIGNASEGO",
+    "CPI": "PADOVA",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "BATTAGLIA TERME",
+    "CPI": "PADOVA",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "CADONEGHE",
+    "CPI": "PADOVA",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "CASALSERUGO",
+    "CPI": "PADOVA",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "CERVARESE SANTA CROCE",
+    "CPI": "PADOVA",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "GALZIGNANO TERME",
+    "CPI": "PADOVA",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "LIMENA",
+    "CPI": "PADOVA",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "MESTRINO",
+    "CPI": "PADOVA",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "MONTEGROTTO TERME",
+    "CPI": "PADOVA",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "NOVENTA PADOVANA",
+    "CPI": "PADOVA",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "PADOVA",
+    "CPI": "PADOVA",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "PONTE SAN NICOLÒ",
+    "CPI": "PADOVA",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "ROVOLON",
+    "CPI": "PADOVA",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "RUBANO",
+    "CPI": "PADOVA",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "SACCOLONGO",
+    "CPI": "PADOVA",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "SAONARA",
+    "CPI": "PADOVA",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "SELVAZZANO DENTRO",
+    "CPI": "PADOVA",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "TEOLO",
+    "CPI": "PADOVA",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "TORREGLIA",
+    "CPI": "PADOVA",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "VEGGIANO",
+    "CPI": "PADOVA",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "VIGODARZERE",
+    "CPI": "PADOVA",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "VIGONZA",
+    "CPI": "PADOVA",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "ARZERGRANDE",
+    "CPI": "PIOVE DI SACCO",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "BOVOLENTA",
+    "CPI": "PIOVE DI SACCO",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "BRUGINE",
+    "CPI": "PIOVE DI SACCO",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "CODEVIGO",
+    "CPI": "PIOVE DI SACCO",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "CORREZZOLA",
+    "CPI": "PIOVE DI SACCO",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "LEGNARO",
+    "CPI": "PIOVE DI SACCO",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "PIOVE DI SACCO",
+    "CPI": "PIOVE DI SACCO",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "POLVERARA",
+    "CPI": "PIOVE DI SACCO",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "PONTELONGO",
+    "CPI": "PIOVE DI SACCO",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "SANT'ANGELO DI PIOVE DI SACCO",
+    "CPI": "PIOVE DI SACCO",
+    "PROVINCIA": "PADOVA (PD)"
+  },
+  {
+    "COMUNE": "ADRIA",
+    "CPI": "ADRIA",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "ARIANO NEL POLESINE",
+    "CPI": "ADRIA",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "CORBOLA",
+    "CPI": "ADRIA",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "LOREO",
+    "CPI": "ADRIA",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "PAPOZZE",
+    "CPI": "ADRIA",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "PETTORAZZA GRIMANI",
+    "CPI": "ADRIA",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "PORTO TOLLE",
+    "CPI": "ADRIA",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "PORTO VIRO",
+    "CPI": "ADRIA",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "ROSOLINA",
+    "CPI": "ADRIA",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "TAGLIO DI PO",
+    "CPI": "ADRIA",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "BADIA POLESINE",
+    "CPI": "BADIA POLESINE",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "BAGNOLO DI PO",
+    "CPI": "BADIA POLESINE",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "BERGANTINO",
+    "CPI": "BADIA POLESINE",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "CALTO",
+    "CPI": "BADIA POLESINE",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "CANDA",
+    "CPI": "BADIA POLESINE",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "CASTELGUGLIELMO",
+    "CPI": "BADIA POLESINE",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "CASTELMASSA",
+    "CPI": "BADIA POLESINE",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "CASTELNOVO BARIANO",
+    "CPI": "BADIA POLESINE",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "CENESELLI",
+    "CPI": "BADIA POLESINE",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "FICAROLO",
+    "CPI": "BADIA POLESINE",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "FRATTA POLESINE",
+    "CPI": "BADIA POLESINE",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "GAIBA",
+    "CPI": "BADIA POLESINE",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "GIACCIANO CON BARUCHELLA",
+    "CPI": "BADIA POLESINE",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "LENDINARA",
+    "CPI": "BADIA POLESINE",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "LUSIA",
+    "CPI": "BADIA POLESINE",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "MELARA",
+    "CPI": "BADIA POLESINE",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "SALARA",
+    "CPI": "BADIA POLESINE",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "SAN BELLINO",
+    "CPI": "BADIA POLESINE",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "TRECENTA",
+    "CPI": "BADIA POLESINE",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "VILLANOVA DEL GHEBBO",
+    "CPI": "BADIA POLESINE",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "ARQUÀ POLESINE",
+    "CPI": "ROVIGO",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "BOSARO",
+    "CPI": "ROVIGO",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "CANARO",
+    "CPI": "ROVIGO",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "CEREGNANO",
+    "CPI": "ROVIGO",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "COSTA DI ROVIGO",
+    "CPI": "ROVIGO",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "CRESPINO",
+    "CPI": "ROVIGO",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "FIESSO UMBERTIANO",
+    "CPI": "ROVIGO",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "FRASSINELLE POLESINE",
+    "CPI": "ROVIGO",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "GAVELLO",
+    "CPI": "ROVIGO",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "GUARDA VENETA",
+    "CPI": "ROVIGO",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "OCCHIOBELLO",
+    "CPI": "ROVIGO",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "PINCARA",
+    "CPI": "ROVIGO",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "POLESELLA",
+    "CPI": "ROVIGO",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "PONTECCHIO POLESINE",
+    "CPI": "ROVIGO",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "ROVIGO",
+    "CPI": "ROVIGO",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "SAN MARTINO DI VENEZZE",
+    "CPI": "ROVIGO",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "STIENTA",
+    "CPI": "ROVIGO",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "VILLADOSE",
+    "CPI": "ROVIGO",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "VILLAMARZANA",
+    "CPI": "ROVIGO",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "VILLANOVA MARCHESANA",
+    "CPI": "ROVIGO",
+    "PROVINCIA": "ROVIGO (RO)"
+  },
+  {
+    "COMUNE": "ALTIVOLE",
+    "CPI": "CASTELFRANCO VENETO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "BORSO DEL GRAPPA",
+    "CPI": "CASTELFRANCO VENETO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "CASTELFRANCO VENETO",
+    "CPI": "CASTELFRANCO VENETO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "CASTELLO DI GODEGO",
+    "CPI": "CASTELFRANCO VENETO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "FONTE",
+    "CPI": "CASTELFRANCO VENETO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "LORIA",
+    "CPI": "CASTELFRANCO VENETO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "PIEVE DEL GRAPPA",
+    "CPI": "CASTELFRANCO VENETO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "RESANA",
+    "CPI": "CASTELFRANCO VENETO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "RIESE PIO X",
+    "CPI": "CASTELFRANCO VENETO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "SAN ZENONE DEGLI EZZELINI",
+    "CPI": "CASTELFRANCO VENETO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "VEDELAGO",
+    "CPI": "CASTELFRANCO VENETO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "CISON DI VALMARINO",
+    "CPI": "CONEGLIANO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "CODOGNÈ",
+    "CPI": "CONEGLIANO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "CONEGLIANO",
+    "CPI": "CONEGLIANO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "FARRA DI SOLIGO",
+    "CPI": "CONEGLIANO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "FOLLINA",
+    "CPI": "CONEGLIANO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "GAIARINE",
+    "CPI": "CONEGLIANO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "GODEGA DI SANT'URBANO",
+    "CPI": "CONEGLIANO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "MARENO DI PIAVE",
+    "CPI": "CONEGLIANO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "MIANE",
+    "CPI": "CONEGLIANO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "MORIAGO DELLA BATTAGLIA",
+    "CPI": "CONEGLIANO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "ORSAGO",
+    "CPI": "CONEGLIANO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "PIEVE DI SOLIGO",
+    "CPI": "CONEGLIANO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "REFRONTOLO",
+    "CPI": "CONEGLIANO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "SAN FIOR",
+    "CPI": "CONEGLIANO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "SAN PIETRO DI FELETTO",
+    "CPI": "CONEGLIANO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "SAN VENDEMIANO",
+    "CPI": "CONEGLIANO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "SANTA LUCIA DI PIAVE",
+    "CPI": "CONEGLIANO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "SERNAGLIA DELLA BATTAGLIA",
+    "CPI": "CONEGLIANO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "SUSEGANA",
+    "CPI": "CONEGLIANO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "VAZZOLA",
+    "CPI": "CONEGLIANO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "ASOLO",
+    "CPI": "MONTEBELLUNA",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "CAERANO DI SAN MARCO",
+    "CPI": "MONTEBELLUNA",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "CASTELCUCCO",
+    "CPI": "MONTEBELLUNA",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "CAVASO DEL TOMBA",
+    "CPI": "MONTEBELLUNA",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "CORNUDA",
+    "CPI": "MONTEBELLUNA",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "CROCETTA DEL MONTELLO",
+    "CPI": "MONTEBELLUNA",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "GIAVERA DEL MONTELLO",
+    "CPI": "MONTEBELLUNA",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "MASER",
+    "CPI": "MONTEBELLUNA",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "MONFUMO",
+    "CPI": "MONTEBELLUNA",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "MONTEBELLUNA",
+    "CPI": "MONTEBELLUNA",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "NERVESA DELLA BATTAGLIA",
+    "CPI": "MONTEBELLUNA",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "PEDEROBBA",
+    "CPI": "MONTEBELLUNA",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "POSSAGNO",
+    "CPI": "MONTEBELLUNA",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "SEGUSINO",
+    "CPI": "MONTEBELLUNA",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "TREVIGNANO",
+    "CPI": "MONTEBELLUNA",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "VALDOBBIADENE",
+    "CPI": "MONTEBELLUNA",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "VIDOR",
+    "CPI": "MONTEBELLUNA",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "VOLPAGO DEL MONTELLO",
+    "CPI": "MONTEBELLUNA",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "CESSALTO",
+    "CPI": "ODERZO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "CHIARANO",
+    "CPI": "ODERZO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "CIMADOLMO",
+    "CPI": "ODERZO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "FONTANELLE",
+    "CPI": "ODERZO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "GORGO AL MONTICANO",
+    "CPI": "ODERZO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "MANSUÈ",
+    "CPI": "ODERZO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "MEDUNA DI LIVENZA",
+    "CPI": "ODERZO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "MOTTA DI LIVENZA",
+    "CPI": "ODERZO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "ODERZO",
+    "CPI": "ODERZO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "ORMELLE",
+    "CPI": "ODERZO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "PONTE DI PIAVE",
+    "CPI": "ODERZO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "PORTOBUFFOLÉ",
+    "CPI": "ODERZO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "SALGAREDA",
+    "CPI": "ODERZO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "SAN POLO DI PIAVE",
+    "CPI": "ODERZO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "ARCADE",
+    "CPI": "TREVISO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "BREDA DI PIAVE",
+    "CPI": "TREVISO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "CARBONERA",
+    "CPI": "TREVISO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "CASALE SUL SILE",
+    "CPI": "TREVISO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "CASIER",
+    "CPI": "TREVISO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "ISTRANA",
+    "CPI": "TREVISO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "MASERADA SUL PIAVE",
+    "CPI": "TREVISO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "MOGLIANO VENETO",
+    "CPI": "TREVISO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "MONASTIER DI TREVISO",
+    "CPI": "TREVISO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "MORGANO",
+    "CPI": "TREVISO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "PAESE",
+    "CPI": "TREVISO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "PONZANO VENETO",
+    "CPI": "TREVISO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "POVEGLIANO",
+    "CPI": "TREVISO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "PREGANZIOL",
+    "CPI": "TREVISO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "QUINTO DI TREVISO",
+    "CPI": "TREVISO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "RONCADE",
+    "CPI": "TREVISO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "SAN BIAGIO DI CALLALTA",
+    "CPI": "TREVISO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "SILEA",
+    "CPI": "TREVISO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "SPRESIANO",
+    "CPI": "TREVISO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "TREVISO",
+    "CPI": "TREVISO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "VILLORBA",
+    "CPI": "TREVISO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "ZENSON DI PIAVE",
+    "CPI": "TREVISO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "ZERO BRANCO",
+    "CPI": "TREVISO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "CAPPELLA MAGGIORE",
+    "CPI": "VITTORIO VENETO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "COLLE UMBERTO",
+    "CPI": "VITTORIO VENETO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "CORDIGNANO",
+    "CPI": "VITTORIO VENETO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "FREGONA",
+    "CPI": "VITTORIO VENETO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "REVINE LAGO",
+    "CPI": "VITTORIO VENETO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "SARMEDE",
+    "CPI": "VITTORIO VENETO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "TARZO",
+    "CPI": "VITTORIO VENETO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "VITTORIO VENETO",
+    "CPI": "VITTORIO VENETO",
+    "PROVINCIA": "TREVISO (TV)"
+  },
+  {
+    "COMUNE": "CAVARZERE",
+    "CPI": "CHIOGGIA",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "CHIOGGIA",
+    "CPI": "CHIOGGIA",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "CONA",
+    "CPI": "CHIOGGIA",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "CAMPAGNA LUPIA",
+    "CPI": "DOLO",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "CAMPOLONGO MAGGIORE",
+    "CPI": "DOLO",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "CAMPONOGARA",
+    "CPI": "DOLO",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "DOLO",
+    "CPI": "DOLO",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "FIESSO D'ARTICO",
+    "CPI": "DOLO",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "FOSSÒ",
+    "CPI": "DOLO",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "MIRA",
+    "CPI": "DOLO",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "PIANIGA",
+    "CPI": "DOLO",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "STRA",
+    "CPI": "DOLO",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "VIGONOVO",
+    "CPI": "DOLO",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "CAVALLINO-TREPORTI",
+    "CPI": "JESOLO",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "ERACLEA",
+    "CPI": "JESOLO",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "JESOLO",
+    "CPI": "JESOLO",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "MARTELLAGO",
+    "CPI": "MIRANO",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "MIRANO",
+    "CPI": "MIRANO",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "NOALE",
+    "CPI": "MIRANO",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "SALZANO",
+    "CPI": "MIRANO",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "SANTA MARIA DI SALA",
+    "CPI": "MIRANO",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "SCORZÈ",
+    "CPI": "MIRANO",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "SPINEA",
+    "CPI": "MIRANO",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "ANNONE VENETO",
+    "CPI": "PORTOGRUARO",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "CAORLE",
+    "CPI": "PORTOGRUARO",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "CINTO CAOMAGGIORE",
+    "CPI": "PORTOGRUARO",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "CONCORDIA SAGITTARIA",
+    "CPI": "PORTOGRUARO",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "FOSSALTA DI PORTOGRUARO",
+    "CPI": "PORTOGRUARO",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "GRUARO",
+    "CPI": "PORTOGRUARO",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "PORTOGRUARO",
+    "CPI": "PORTOGRUARO",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "PRAMAGGIORE",
+    "CPI": "PORTOGRUARO",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "SAN MICHELE AL TAGLIAMENTO",
+    "CPI": "PORTOGRUARO",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "SAN STINO DI LIVENZA",
+    "CPI": "PORTOGRUARO",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "TEGLIO VENETO",
+    "CPI": "PORTOGRUARO",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "CEGGIA",
+    "CPI": "SAN DONÀ DEL PIAVE",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "FOSSALTA DI PIAVE",
+    "CPI": "SAN DONÀ DEL PIAVE",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "MEOLO",
+    "CPI": "SAN DONÀ DEL PIAVE",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "MUSILE DI PIAVE",
+    "CPI": "SAN DONÀ DEL PIAVE",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "NOVENTA DI PIAVE",
+    "CPI": "SAN DONÀ DEL PIAVE",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "SAN DONÀ DI PIAVE",
+    "CPI": "SAN DONÀ DEL PIAVE",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "TORRE DI MOSTO",
+    "CPI": "SAN DONÀ DEL PIAVE",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "MARCON",
+    "CPI": "VENEZIA",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "QUARTO D'ALTINO",
+    "CPI": "VENEZIA",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "VENEZIA",
+    "CPI": "VENEZIA",
+    "PROVINCIA": "VENEZIA (VE)"
+  },
+  {
+    "COMUNE": "AFFI",
+    "CPI": "AFFI",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "BARDOLINO",
+    "CPI": "AFFI",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "BRENTINO BELLUNO",
+    "CPI": "AFFI",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "BRENZONE SUL GARDA",
+    "CPI": "AFFI",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "CAPRINO VERONESE",
+    "CPI": "AFFI",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "CASTELNUOVO DEL GARDA",
+    "CPI": "AFFI",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "CAVAION VERONESE",
+    "CPI": "AFFI",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "COSTERMANO",
+    "CPI": "AFFI",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "DOLCÈ",
+    "CPI": "AFFI",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "FERRARA DI MONTE BALDO",
+    "CPI": "AFFI",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "FUMANE",
+    "CPI": "AFFI",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "GARDA",
+    "CPI": "AFFI",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "LAZISE",
+    "CPI": "AFFI",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "MALCESINE",
+    "CPI": "AFFI",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "MARANO DI VALPOLICELLA",
+    "CPI": "AFFI",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "PASTRENGO",
+    "CPI": "AFFI",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "PESCHIERA DEL GARDA",
+    "CPI": "AFFI",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "RIVOLI VERONESE",
+    "CPI": "AFFI",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "SAN PIETRO IN CARIANO",
+    "CPI": "AFFI",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "SAN ZENO DI MONTAGNA",
+    "CPI": "AFFI",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "SANT'AMBROGIO DI VALPOLICELLA",
+    "CPI": "AFFI",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "TORRI DEL BENACO",
+    "CPI": "AFFI",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "BOVOLONE",
+    "CPI": "BOVOLONE",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "BUTTAPIETRA",
+    "CPI": "BOVOLONE",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "ERBÉ",
+    "CPI": "BOVOLONE",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "ISOLA DELLA SCALA",
+    "CPI": "BOVOLONE",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "ISOLA RIZZA",
+    "CPI": "BOVOLONE",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "NOGARA",
+    "CPI": "BOVOLONE",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "OPPEANO",
+    "CPI": "BOVOLONE",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "PALÙ",
+    "CPI": "BOVOLONE",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "RONCO ALL'ADIGE",
+    "CPI": "BOVOLONE",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "SALIZZOLE",
+    "CPI": "BOVOLONE",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "SORGÀ",
+    "CPI": "BOVOLONE",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "TREVENZUOLO",
+    "CPI": "BOVOLONE",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "ANGIARI",
+    "CPI": "LEGNAGO",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "BEVILACQUA",
+    "CPI": "LEGNAGO",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "BONAVIGO",
+    "CPI": "LEGNAGO",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "BOSCHI SANT'ANNA",
+    "CPI": "LEGNAGO",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "CASALEONE",
+    "CPI": "LEGNAGO",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "CASTAGNARO",
+    "CPI": "LEGNAGO",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "CEREA",
+    "CPI": "LEGNAGO",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "CONCAMARISE",
+    "CPI": "LEGNAGO",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "GAZZO VERONESE",
+    "CPI": "LEGNAGO",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "LEGNAGO",
+    "CPI": "LEGNAGO",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "MINERBE",
+    "CPI": "LEGNAGO",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "ROVERCHIARA",
+    "CPI": "LEGNAGO",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "SAN PIETRO DI MORUBIO",
+    "CPI": "LEGNAGO",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "SANGUINETTO",
+    "CPI": "LEGNAGO",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "TERRAZZO",
+    "CPI": "LEGNAGO",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "VILLA BARTOLOMEA",
+    "CPI": "LEGNAGO",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "ARCOLE",
+    "CPI": "SAN BONIFACIO",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "BADIA CALAVENA",
+    "CPI": "SAN BONIFACIO",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "BELFIORE",
+    "CPI": "SAN BONIFACIO",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "CALDIERO",
+    "CPI": "SAN BONIFACIO",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "CAZZANO DI TRAMIGNA",
+    "CPI": "SAN BONIFACIO",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "COLOGNA VENETA",
+    "CPI": "SAN BONIFACIO",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "COLOGNOLA AI COLLI",
+    "CPI": "SAN BONIFACIO",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "ILLASI",
+    "CPI": "SAN BONIFACIO",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "MONTECCHIA DI CROSARA",
+    "CPI": "SAN BONIFACIO",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "MONTEFORTE D'ALPONE",
+    "CPI": "SAN BONIFACIO",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "PRESSANA",
+    "CPI": "SAN BONIFACIO",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "RONCÀ",
+    "CPI": "SAN BONIFACIO",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "ROVEREDO DI GUÀ",
+    "CPI": "SAN BONIFACIO",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "SAN BONIFACIO",
+    "CPI": "SAN BONIFACIO",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "SAN GIOVANNI ILARIONE",
+    "CPI": "SAN BONIFACIO",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "SAN MAURO DI SALINE",
+    "CPI": "SAN BONIFACIO",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "SELVA DI PROGNO",
+    "CPI": "SAN BONIFACIO",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "SOAVE",
+    "CPI": "SAN BONIFACIO",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "TREGNAGO",
+    "CPI": "SAN BONIFACIO",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "VELO VERONESE",
+    "CPI": "SAN BONIFACIO",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "VERONELLA",
+    "CPI": "SAN BONIFACIO",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "VESTENANOVA",
+    "CPI": "SAN BONIFACIO",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "ZIMELLA",
+    "CPI": "SAN BONIFACIO",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "ALBAREDO D'ADIGE",
+    "CPI": "VERONA",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "BOSCO CHIESANUOVA",
+    "CPI": "VERONA",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "CASTEL D'AZZANO",
+    "CPI": "VERONA",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "CERRO VERONESE",
+    "CPI": "VERONA",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "ERBEZZO",
+    "CPI": "VERONA",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "GREZZANA",
+    "CPI": "VERONA",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "LAVAGNO",
+    "CPI": "VERONA",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "MEZZANE DI SOTTO",
+    "CPI": "VERONA",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "NEGRAR DI VALPOLICELLA",
+    "CPI": "VERONA",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "ROVERÉ VERONESE",
+    "CPI": "VERONA",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "SAN GIOVANNI LUPATOTO",
+    "CPI": "VERONA",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "SAN MARTINO BUON ALBERGO",
+    "CPI": "VERONA",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "SANT'ANNA D'ALFAEDO",
+    "CPI": "VERONA",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "VERONA",
+    "CPI": "VERONA",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "ZEVIO",
+    "CPI": "VERONA",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "BUSSOLENGO",
+    "CPI": "VILLAFRANCA DI VERONA",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "MOZZECANE",
+    "CPI": "VILLAFRANCA DI VERONA",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "NOGAROLE ROCCA",
+    "CPI": "VILLAFRANCA DI VERONA",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "PESCANTINA",
+    "CPI": "VILLAFRANCA DI VERONA",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "POVEGLIANO VERONESE",
+    "CPI": "VILLAFRANCA DI VERONA",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "SOMMACAMPAGNA",
+    "CPI": "VILLAFRANCA DI VERONA",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "SONA",
+    "CPI": "VILLAFRANCA DI VERONA",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "VALEGGIO SUL MINCIO",
+    "CPI": "VILLAFRANCA DI VERONA",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "VIGASIO",
+    "CPI": "VILLAFRANCA DI VERONA",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "VILLAFRANCA DI VERONA",
+    "CPI": "VILLAFRANCA DI VERONA",
+    "PROVINCIA": "VERONA (VR)"
+  },
+  {
+    "COMUNE": "ALTISSIMO",
+    "CPI": "ARZIGNANO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "ARZIGNANO",
+    "CPI": "ARZIGNANO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "BRENDOLA",
+    "CPI": "ARZIGNANO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "CHIAMPO",
+    "CPI": "ARZIGNANO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "CRESPADORO",
+    "CPI": "ARZIGNANO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "GAMBELLARA",
+    "CPI": "ARZIGNANO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "MONTEBELLO VICENTINO",
+    "CPI": "ARZIGNANO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "MONTECCHIO MAGGIORE",
+    "CPI": "ARZIGNANO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "MONTORSO VICENTINO",
+    "CPI": "ARZIGNANO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "NOGAROLE VICENTINO",
+    "CPI": "ARZIGNANO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "SAN PIETRO MUSSOLINO",
+    "CPI": "ARZIGNANO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "ZERMEGHEDO",
+    "CPI": "ARZIGNANO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "ASIAGO",
+    "CPI": "ASIAGO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "ENEGO",
+    "CPI": "ASIAGO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "FOZA",
+    "CPI": "ASIAGO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "GALLIO",
+    "CPI": "ASIAGO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "LUSIANA CONCO",
+    "CPI": "ASIAGO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "ROANA",
+    "CPI": "ASIAGO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "ROTZO",
+    "CPI": "ASIAGO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "BASSANO DEL GRAPPA",
+    "CPI": "BASSANO DEL GRAPPA",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "CARTIGLIANO",
+    "CPI": "BASSANO DEL GRAPPA",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "CASSOLA",
+    "CPI": "BASSANO DEL GRAPPA",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "COLCERESA",
+    "CPI": "BASSANO DEL GRAPPA",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "MAROSTICA",
+    "CPI": "BASSANO DEL GRAPPA",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "MUSSOLENTE",
+    "CPI": "BASSANO DEL GRAPPA",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "NOVE",
+    "CPI": "BASSANO DEL GRAPPA",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "PIANEZZE",
+    "CPI": "BASSANO DEL GRAPPA",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "POVE DEL GRAPPA",
+    "CPI": "BASSANO DEL GRAPPA",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "ROMANO D'EZZELINO",
+    "CPI": "BASSANO DEL GRAPPA",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "ROSSANO VENETO",
+    "CPI": "BASSANO DEL GRAPPA",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "ROSÀ",
+    "CPI": "BASSANO DEL GRAPPA",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "SCHIAVON",
+    "CPI": "BASSANO DEL GRAPPA",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "SOLAGNA",
+    "CPI": "BASSANO DEL GRAPPA",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "TEZZE SUL BRENTA",
+    "CPI": "BASSANO DEL GRAPPA",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "VALBRENTA",
+    "CPI": "BASSANO DEL GRAPPA",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "AGUGLIARO",
+    "CPI": "LONIGO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "ALBETTONE",
+    "CPI": "LONIGO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "ALONTE",
+    "CPI": "LONIGO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "ASIGLIANO VENETO",
+    "CPI": "LONIGO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "BARBARANO MOSSANO",
+    "CPI": "LONIGO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "CAMPIGLIA DEI BERICI",
+    "CPI": "LONIGO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "LONIGO",
+    "CPI": "LONIGO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "NANTO",
+    "CPI": "LONIGO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "NOVENTA VICENTINA",
+    "CPI": "LONIGO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "ORGIANO",
+    "CPI": "LONIGO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "POJANA MAGGIORE",
+    "CPI": "LONIGO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "SAREGO",
+    "CPI": "LONIGO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "SOSSANO",
+    "CPI": "LONIGO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "VAL LIONA",
+    "CPI": "LONIGO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "VILLAGA",
+    "CPI": "LONIGO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "ARSIERO",
+    "CPI": "SCHIO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "BREGANZE",
+    "CPI": "SCHIO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "CALTRANO",
+    "CPI": "SCHIO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "CALVENE",
+    "CPI": "SCHIO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "CARRÈ",
+    "CPI": "SCHIO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "CHIUPPANO",
+    "CPI": "SCHIO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "COGOLLO DEL CENGIO",
+    "CPI": "SCHIO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "FARA VICENTINO",
+    "CPI": "SCHIO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "LAGHI",
+    "CPI": "SCHIO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "LASTEBASSE",
+    "CPI": "SCHIO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "LUGO DI VICENZA",
+    "CPI": "SCHIO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "MALO",
+    "CPI": "SCHIO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "MARANO VICENTINO",
+    "CPI": "SCHIO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "MONTE DI MALO",
+    "CPI": "SCHIO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "MONTECCHIO PRECALCINO",
+    "CPI": "SCHIO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "PEDEMONTE",
+    "CPI": "SCHIO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "PIOVENE ROCCHETTE",
+    "CPI": "SCHIO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "POSINA",
+    "CPI": "SCHIO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "SALCEDO",
+    "CPI": "SCHIO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "SAN VITO DI LEGUZZANO",
+    "CPI": "SCHIO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "SANTORSO",
+    "CPI": "SCHIO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "SARCEDO",
+    "CPI": "SCHIO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "SCHIO",
+    "CPI": "SCHIO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "THIENE",
+    "CPI": "SCHIO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "TONEZZA DEL CIMONE",
+    "CPI": "SCHIO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "TORREBELVICINO",
+    "CPI": "SCHIO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "VALDASTICO",
+    "CPI": "SCHIO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "VALLI DEL PASUBIO",
+    "CPI": "SCHIO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "VELO D'ASTICO",
+    "CPI": "SCHIO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "VILLAVERLA",
+    "CPI": "SCHIO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "ZANÈ",
+    "CPI": "SCHIO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "ZUGLIANO",
+    "CPI": "SCHIO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "BROGLIANO",
+    "CPI": "VALDAGNO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "CASTELGOMBERTO",
+    "CPI": "VALDAGNO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "CORNEDO VICENTINO",
+    "CPI": "VALDAGNO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "RECOARO TERME",
+    "CPI": "VALDAGNO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "TRISSINO",
+    "CPI": "VALDAGNO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "VALDAGNO",
+    "CPI": "VALDAGNO",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "ALTAVILLA VICENTINA",
+    "CPI": "VICENZA",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "ARCUGNANO",
+    "CPI": "VICENZA",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "BOLZANO VICENTINO",
+    "CPI": "VICENZA",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "BRESSANVIDO",
+    "CPI": "VICENZA",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "CALDOGNO",
+    "CPI": "VICENZA",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "CAMISANO VICENTINO",
+    "CPI": "VICENZA",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "CASTEGNERO",
+    "CPI": "VICENZA",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "COSTABISSARA",
+    "CPI": "VICENZA",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "CREAZZO",
+    "CPI": "VICENZA",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "DUEVILLE",
+    "CPI": "VICENZA",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "GAMBUGLIANO",
+    "CPI": "VICENZA",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "GRISIGNANO DI ZOCCO",
+    "CPI": "VICENZA",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "GRUMOLO DELLE ABBADESSE",
+    "CPI": "VICENZA",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "ISOLA VICENTINA",
+    "CPI": "VICENZA",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "LONGARE",
+    "CPI": "VICENZA",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "MONTEGALDA",
+    "CPI": "VICENZA",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "MONTEGALDELLA",
+    "CPI": "VICENZA",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "MONTEVIALE",
+    "CPI": "VICENZA",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "MONTICELLO CONTE OTTO",
+    "CPI": "VICENZA",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "POZZOLEONE",
+    "CPI": "VICENZA",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "QUINTO VICENTINO",
+    "CPI": "VICENZA",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "SANDRIGO",
+    "CPI": "VICENZA",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "SOVIZZO",
+    "CPI": "VICENZA",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "TORRI DI QUARTESOLO",
+    "CPI": "VICENZA",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "VICENZA",
+    "CPI": "VICENZA",
+    "PROVINCIA": "VICENZA (VI)"
+  },
+  {
+    "COMUNE": "ZOVENCEDO",
+    "CPI": "VICENZA",
+    "PROVINCIA": "VICENZA (VI)"
+  }
+]
