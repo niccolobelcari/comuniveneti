@@ -29,7 +29,7 @@ table.sortable {
   outline: none;
   cursor: pointer;
   border-collapse: collapse;
-  background-color: rgba(223,233,235,1);
+/*   background-color: rgba(223,233,235,1); */
   font-family: 'Open Sans', sans-serif;
 }
 
